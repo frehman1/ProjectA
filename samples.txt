@@ -1,76 +1,76 @@
-GSM451162 none no exposure non-smoker 101 
-GSM451163 none no exposure non-smoker 102 
-GSM451164 none no exposure non-smoker 103 
-GSM451165 none no exposure non-smoker 104 
-GSM451167 none no exposure non-smoker 106 
-GSM451168 none no exposure non-smoker 107 
-GSM451169 none no exposure non-smoker 108 
-GSM451170 none no exposure non-smoker 109 
-GSM451171 none no exposure non-smoker 110 
-GSM451172 none no exposure non-smoker 111 
-GSM451173 none no exposure non-smoker 112 
-GSM451174 none no exposure non-smoker 113 
-GSM451175 none no exposure non-smoker 114 
-GSM451177 none no exposure non-smoker 116 
-GSM451178 none no exposure non-smoker 117 
-GSM451179 none no exposure non-smoker 118 
-GSM451180 none no exposure non-smoker 119 
-GSM451181 none no exposure non-smoker 120 
-GSM451182 none no exposure non-smoker 121 
-GSM451183 none no exposure non-smoker 122 
-GSM451184 none no exposure non-smoker 123 
-GSM451185 none no exposure non-smoker 124 
-GSM451186 none no exposure non-smoker 125 
-GSM451187 none no exposure non-smoker 126 
-GSM451188 none no exposure non-smoker 127 
-GSM451189 none no exposure non-smoker 128 
-GSM451190 none no exposure non-smoker 129 
-GSM451191 none no exposure non-smoker 130 
-GSM451193 none no exposure non-smoker 132 
-GSM451195 none no exposure non-smoker 134 
-GSM451196 none no exposure non-smoker 135 
-GSM451197 none no exposure non-smoker 136 
-GSM451199 none no exposure non-smoker 138 
-GSM451201 none no exposure non-smoker 140 
-GSM451202 none no exposure non-smoker 141 
-GSM451203 none no exposure non-smoker 142 
-GSM451204 none no exposure non-smoker 143 
-GSM451205 none no exposure non-smoker 144 
-GSM451206 none no exposure non-smoker 145 
-GSM451207 none no exposure non-smoker 146 
-GSM451208 none no exposure non-smoker 147 
-GSM451209 none no exposure non-smoker 148 
-GSM451210 none no exposure non-smoker 149 
-GSM451212 none no exposure non-smoker 151 
-GSM451213 none no exposure non-smoker 152 
-GSM451214 none no exposure non-smoker 153 
-GSM451215 none no exposure non-smoker 154 
-GSM451216 none no exposure non-smoker 155 
-GSM451217 none no exposure non-smoker 156 
-GSM451219 none no exposure non-smoker 158 
-GSM451220 none no exposure non-smoker 159 
-GSM451221 none no exposure non-smoker 160 
-GSM451222 none no exposure non-smoker 161 
-GSM451224 none no exposure non-smoker 163 
-GSM451225 none no exposure non-smoker 164 
-GSM451226 none no exposure non-smoker 166 
-GSM451227 none no exposure non-smoker 167 
-GSM451228 none no exposure non-smoker 168 
-GSM451230 none no exposure non-smoker 171 
-GSM451231 none no exposure non-smoker 173 
-GSM451233 none no exposure non-smoker 175 
-GSM451234 none no exposure non-smoker 176 
-GSM451235 none no exposure non-smoker 177 
-GSM451236 none no exposure non-smoker 178 
-GSM451166 tobacco smoke light exposure light smoker 105 
-GSM451194 tobacco smoke light exposure light smoker 133 
-GSM451198 tobacco smoke light exposure light smoker 137 
-GSM451218 tobacco smoke light exposure light smoker 157 
-GSM451232 tobacco smoke light exposure light smoker 174 
-GSM451176 tobacco smoke heavy exposure heavy smoker 115 
-GSM451192 tobacco smoke heavy exposure heavy smoker 131 
-GSM451200 tobacco smoke heavy exposure heavy smoker 139 
-GSM451211 tobacco smoke heavy exposure heavy smoker 150 
-GSM451223 tobacco smoke heavy exposure heavy smoker 162 
-GSM451229 tobacco smoke heavy exposure heavy smoker 170 
-GSM451237 tobacco smoke heavy exposure heavy smoker 179 
+GSM451162   none            no exposure     non-smoker 101 
+GSM451163   none            no exposure     non-smoker 102 
+GSM451164   none            no exposure     non-smoker 103 
+GSM451165   none            no exposure     non-smoker 104 
+GSM451167   none            no exposure     non-smoker 106 
+GSM451168   none            no exposure     non-smoker 107 
+GSM451169   none            no exposure     non-smoker 108 
+GSM451170   none            no exposure     non-smoker 109 
+GSM451171   none            no exposure     non-smoker 110 
+GSM451172   none            no exposure     non-smoker 111 
+GSM451173   none            no exposure     non-smoker 112 
+GSM451174   none            no exposure     non-smoker 113 
+GSM451175   none            no exposure     non-smoker 114 
+GSM451177   none            no exposure     non-smoker 116 
+GSM451178   none            no exposure     non-smoker 117 
+GSM451179   none            no exposure     non-smoker 118 
+GSM451180   none            no exposure     non-smoker 119 
+GSM451181   none            no exposure     non-smoker 120 
+GSM451182   none            no exposure     non-smoker 121 
+GSM451183   none            no exposure     non-smoker 122 
+GSM451184   none            no exposure     non-smoker 123 
+GSM451185   none            no exposure     non-smoker 124 
+GSM451186   none            no exposure     non-smoker 125 
+GSM451187   none            no exposure     non-smoker 126 
+GSM451188   none            no exposure     non-smoker 127 
+GSM451189   none            no exposure     non-smoker 128 
+GSM451190   none            no exposure     non-smoker 129 
+GSM451191   none            no exposure     non-smoker 130 
+GSM451193   none            no exposure     non-smoker 132 
+GSM451195   none            no exposure     non-smoker 134 
+GSM451196   none            no exposure     non-smoker 135 
+GSM451197   none            no exposure     non-smoker 136 
+GSM451199   none            no exposure     non-smoker 138 
+GSM451201   none            no exposure     non-smoker 140 
+GSM451202   none            no exposure     non-smoker 141 
+GSM451203   none            no exposure     non-smoker 142 
+GSM451204   none            no exposure     non-smoker 143 
+GSM451205   none            no exposure     non-smoker 144 
+GSM451206   none            no exposure     non-smoker 145 
+GSM451207   none            no exposure     non-smoker 146 
+GSM451208   none            no exposure     non-smoker 147 
+GSM451209   none            no exposure     non-smoker 148 
+GSM451210   none            no exposure     non-smoker 149 
+GSM451212   none            no exposure     non-smoker 151 
+GSM451213   none            no exposure     non-smoker 152 
+GSM451214   none            no exposure     non-smoker 153 
+GSM451215   none            no exposure     non-smoker 154 
+GSM451216   none            no exposure     non-smoker 155 
+GSM451217   none            no exposure     non-smoker 156 
+GSM451219   none            no exposure     non-smoker 158 
+GSM451220   none            no exposure     non-smoker 159 
+GSM451221   none            no exposure     non-smoker 160 
+GSM451222   none            no exposure     non-smoker 161 
+GSM451224   none            no exposure     non-smoker 163 
+GSM451225   none            no exposure     non-smoker 164 
+GSM451226   none            no exposure     non-smoker 166 
+GSM451227   none            no exposure     non-smoker 167 
+GSM451228   none            no exposure     non-smoker 168 
+GSM451230   none            no exposure     non-smoker 171 
+GSM451231   none            no exposure     non-smoker 173 
+GSM451233   none            no exposure     non-smoker 175 
+GSM451234   none            no exposure     non-smoker 176 
+GSM451235   none            no exposure     non-smoker 177 
+GSM451236   none            no exposure     non-smoker 178 
+GSM451166   tobacco smoke   light exposure  light smoker 105 
+GSM451194   tobacco smoke   light exposure  light smoker 133 
+GSM451198   tobacco smoke   light exposure  light smoker 137 
+GSM451218   tobacco smoke   light exposure  light smoker 157 
+GSM451232   tobacco smoke   light exposure  light smoker 174 
+GSM451176   tobacco smoke   heavy exposure  heavy smoker 115 
+GSM451192   tobacco smoke   heavy exposure  heavy smoker 131 
+GSM451200   tobacco smoke   heavy exposure  heavy smoker 139 
+GSM451211   tobacco smoke   heavy exposure  heavy smoker 150 
+GSM451223   tobacco smoke   heavy exposure  heavy smoker 162 
+GSM451229   tobacco smoke   heavy exposure  heavy smoker 170 
+GSM451237   tobacco smoke   heavy exposure  heavy smoker 179 
