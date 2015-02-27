@@ -1,0 +1,49 @@
+#I have already made the tables in mysql in the terminal but the following code will show how this is done.
+
+CREATE TABLE gene_info ( #this allocates the tables the name gene_info
+gene_ID INTEGER not null primary key, /*integer meaning a series of numbers*/
+gene_symbol VARCHAR(10) not null, /*varchar means that it's a variable-length character*/
+description VARCHAR(200) not null
+);
+
+#The following code will load the data the required data into the tables
+
+LOAD DATA LOCAL INFILE 'genes.txt' INTO TABLE gene_info (gene_ID, gene_symbol, description);
+DESCRIBE gene_info; #this will show the table gene_info
+
+
+
+#The table made next is called probe_info
+
+CREATE TABLE probe_info (
+ID_REF VARCHAR(15) primary key,
+gene_ID VARCHAR(15) not null
+);
+
+LOAD DATA LOCAL INFILE 'probes.txt' INTO TABLE probe_info(ID_REF, gene_ID);
+
+
+#The next table is called expression1_info
+
+CREATE TABLE expression1_info (
+gene_ID VARCHAR(10) not null,
+ID_REF VARCHAR(10),
+expression_value INTEGER(10)
+);
+
+LOAD DATA LOCAL INFILE 'expression.txt' INTO TABLE expression1_info (gene_ID, ID_REF, expression_value);
+
+
+#The following code links the gene_info and expression1_info table together
+SELECT gene_symbol, expression_value, ID_REF
+FROM expression1_info, gene_info
+WHERE expression1_info.gene_ID = gene_info.gene_ID;
+#This takes the gene symbol row, the expression value and the ID Ref from tables expression1_info and from gene_info and links them together.
+
+
+SELECT gene_symbol, description, ID_REF
+FROM gene_info, probe_info
+WHERE gene_info.gene_ID = probe_info.gene_ID;
+#This will link the tables gene info and probe info together through gene_ID, to show the gene symbol, description and ID_REF
+
+
