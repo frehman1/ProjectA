@@ -1,0 +1,14 @@
+fh=open('samples.txt') #this opens the file samples.txt
+for line in fh.readlines(): #reads all the lines in samples.txt
+    line=line.replace('none no exposure non', '\tnon\tno exposure\non'), #enters a tab before the work non, no exposure and non to make the table look neater
+    print(line) #prints the newly tabulated table
+
+fh1=open('samples.txt') #same as above
+for line in fh1.readlines():
+    line1=line.replace('tobacco smoke light exposure light', '\ttobacco smoke\tlight exposure\tlight')
+    print(line1)
+
+fh2=open('samples.txt') #same as above
+for line in fh2.readlines():
+    line2= line.replace('tobacco smoke heavy exposure heavy smoker', '\ttobacco smoke\theavy exposure\theavy')
+    print(line2)
