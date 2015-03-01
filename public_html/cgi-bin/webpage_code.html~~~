@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <style>
+
+<!--This makes the font of the title arial, in a purple colour, aligned in the center-->
+    h1 {color: #660066; font-family: "arial"; text-align: center; font-size: 200%,}
+  </style>
+  <head>
+<body>
+
+  <h1>The effect of tobacco smoke on the placenta of pregnant woman <h1></h1> <!--This will display a title in the largest text size available for headers-->
+
+<div>  
+<p>Smoking increases the risk of preterm delivery and introduces complications. The placenta of woman who smoked during pregnancy were analysed. The results provided insight into the molecular basis of smoke-induced placental abnormalities.</p>
+</div> <!--The div element allows the browser to display a line break before and after the text and the <p> tag puts the text in a paragraph-->
+ 
+ <img src="placenta.png" /> <!--This will insert a picture which is saved in my computer as babyplacenta.png-->
+ <img src"placenta.png" height=120 width=80 alt='The baby and the placenta in the womb' />
+  <!--<input type="text" name="geneIDtextbox" value="Enter required Gene ID here" />--> <!--This will allow the user to enter a gene ID, which I am hoping to be able to link to my data so that all the information based on that gene ID appears-->
+
+
+
+
+  <div>
+  <form action="/~frehman/cgi-bin/testscript.py" method="POST"> <!--This will run the code from the file testscript.py--> 
+  <input type=text name="entertext" value="Enter Gene ID here" size=27/>
+  <input type="submit" name="submitbutton" value="Go" /> <!--There are two inputs here, the first one will show a text box, where the user will be prompted to enter the gene ID of their choice and the second input will create a submit button for the user to press once they have typed in the gene ID-->
+  </form>
+  </div>
+
+
+  <div> 
+  <form action="/~frehman/cgi-bin/.....py" method=POST> <!--This form will not run as there is no script associated with this query-->
+  <input type=text name="enterage" value="Enter the age of the smoker here" size=27/> <!--This input allows the user to enter the age of the smoker they are looking for, and submit it using the go button-->
+  <input type="submit" name="submitbutton" value="Go" />
+  </form>
+  </div>
+
+
+  <a href='cgi-bin/gene_info.py?geneid=12345'>Click here to go to the CGI script</a> <!--This link should take you to the cgi script-->
+
+
+
+
+
+
+</body>
+</html>

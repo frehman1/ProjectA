@@ -6,7 +6,10 @@
 		<style>
 			h1 {color: #660066; font-size: 200%} <!--This is a style block which contains my style definitions, makes the title Green-->
 		</style>
-		
+		<form action="/~frehman/cgi-bin/testscript.py" method="GET"> <!--This will run the code from the file testscript.py-->
+  <input type=text name="entertext" value="Enter Gene ID" size=25/>
+  <input type="submit" name="submitbutton" value="Go" /> <!--There are two inputs here, the first one will show a text box, where the user will be prompted to enter the gene ID of their choice and the second input will create a submit button for the user to press once they have typed in the gene ID-->
+  </form>
         </head>
         <body>		
               	 <h1>Fatima's Home Page</h1> <!--Under the homepage title, the text below will be displayed-->

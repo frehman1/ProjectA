@@ -1,0 +1,9 @@
+<html><head><title>Test form</title></head>
+<body>
+<form action="/~frehman/cgi-bin/testscript.py" method=GET> <!--opens website/page-->
+<input type="text" name="name" value s="Enter your name" size=30/> <!--makes the search bar and allows two inputs-->
+<input type="Submit" value="Go"/> <!--makes the submit button-->
+
+</form> <!--closes the form-->
+</body> <!--closes the body-->
+</html> <!--closes the -->

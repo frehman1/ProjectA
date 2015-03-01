@@ -1,0 +1,13 @@
+def start_html(title, css=None):
+    html="""Content-Type: text/html
+
+<!DOCTYPE html>
+<html><head><title>%s</title>"""%title
+
+    if css is not None:
+        html=html+"\n<link rel="stylesheet" type="text/css" href='%s'>\n"%css
+    html=html+"</head>\n<body>"
+    return html
+
+#This could be added at the start of the CGI script, this is just a template so you only need to write the code once.
+#As it can be very tiring writing out the same basic code over and over again.

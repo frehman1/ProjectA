@@ -1,0 +1,4 @@
+index.html is the webpage I created for practice, as we will need to create a webpage that will be able to display my chosen data set through a webpage.
+ 
+The code for the webpage to access the data will be available under webpage_code.
+cgi_methods.py is simply a template, this is used as it can be very tiresome writing out the same code over and over again.
