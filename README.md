@@ -29,3 +29,6 @@ This contains the information from GDS3793_full.soft in a table form.
 
 ## tabulatingtable.py
 This contains the code to make the tables look neater.
+
+## public_html
+This is a new directory and another README file will be available in there.
